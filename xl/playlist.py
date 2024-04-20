@@ -994,6 +994,7 @@ class Playlist:
         """
         return self.__current_position
 
+    # mondaiji
     def set_current_position(self, position):
         """
         Sets the current position within the playlist
@@ -1624,6 +1625,7 @@ class Playlist:
 
         self.on_tracks_changed()
 
+        # Not here
         if removed:
             event.log_event('playlist_tracks_removed', self, removed)
         if added:
@@ -1632,6 +1634,7 @@ class Playlist:
 
         self.__needs_save = self.__dirty = True
 
+    # mondaiji, this seems to be triggered whenever new item gets added when track is empty. Why?
     def __delitem__(self, i):
         if isinstance(i, slice):
             (start, end, step) = self.__tuple_from_slice(i)
@@ -1647,6 +1650,7 @@ class Playlist:
         else:
             removed = [(i, oldtracks)]
 
+        # gachi mondaiji
         self.on_tracks_changed()
         event.log_event('playlist_tracks_removed', self, removed)
         self.__adjust_current_pos(oldpos, removed, [])

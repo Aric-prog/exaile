@@ -133,6 +133,7 @@ class PlayQueue(playlist.Playlist):
         if self.__queue_has_tracks and len(self):
             track = self._calculate_next_track()
             if track is not None:
+                print(track)
                 return track
         if self.current_playlist is not self:
             return self.current_playlist.get_next()
@@ -141,6 +142,8 @@ class PlayQueue(playlist.Playlist):
         else:
             return None
 
+    # mondaiji GACHI
+    # This is full of hacks!!!
     def next(self, autoplay=True, track=None):
         """
         Goes to the next track, either in the queue, or in the current
@@ -155,18 +158,23 @@ class PlayQueue(playlist.Playlist):
 
             * `playback_playlist_end`: indicates that the end of the queue has been reached
         """
+
         if track is None:
             if self.__queue_has_tracks:
                 if self.__remove_item_on_playback:
                     if self.__remove_item_after_playback:
                         track = self._calculate_next_track()
+                        # track = playlist.Playlist.next(self)
+                        # ok GACHI GACHI GACHI mondaiji here
                         if self.current_playlist is self:
                             try:
+                                # This breaks the queue, gachi mondaiji, ok maybe it's intentional?
                                 self.pop(self.current_position)
                             except IndexError:
                                 pass
                         if track is not None:
                             self.current_position = (
+                                # so the issue here is that while current_position=0, the actual track exists at -1
                                 0  # necessary to mark the first track in queue
                             )
                     else:
@@ -192,6 +200,7 @@ class PlayQueue(playlist.Playlist):
                 track = self.current_playlist.next()
 
         if autoplay:
+            print("here?")
             self.player.play(track)
 
         if not track:
@@ -249,6 +258,7 @@ class PlayQueue(playlist.Playlist):
         :param track: the track to play
         :type track: :class:`xl.trax.Track`
         """
+
         if self.player.is_playing():
             if not track or self.__disable_new_track_when_playing:
                 return
@@ -287,11 +297,13 @@ class PlayQueue(playlist.Playlist):
                 (self.current_position, oldpos),
             )
 
+
     # Internal value indicating whether the internal queue has tracks left to play
     __queue_has_tracks = property(
         lambda self: self.__queue_has_tracks_val, __set_queue_has_tracks
     )
 
+    # gachi GACHI mondaiji
     def __setitem__(self, i, value):
         """
         Overrides the playlist.Playlist list API.
@@ -299,10 +311,11 @@ class PlayQueue(playlist.Playlist):
         Allows us to ensure that when a track is added to an empty queue,
         we play it. Or not, depending on what the user wants.
         """
+
         old_len = playlist.Playlist.__len__(self)
         playlist.Playlist.__setitem__(self, i, value)
 
-        # if nothing is queued, queue this track up
+        # # if nothing is queued, queue this track up
         if self.current_position == -1:
             if isinstance(i, slice):
                 self.current_position = i.indices(len(self))[0] - 1

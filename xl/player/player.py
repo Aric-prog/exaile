@@ -205,7 +205,6 @@ class ExailePlayer:
             * `playback_track_end`: indicates playback end of a track
         """
         state = self.get_state()
-
         if state == 'playing' or state == 'paused':
             self._engine.stop()
             return True
@@ -458,7 +457,7 @@ class ExailePlayer:
 
         self._update_playtime(track)
         event.log_event('playback_track_end', self, track)
-
+        
         if done:
             self._cancel_delayed_start()
             event.log_event('playback_player_end', self, track)

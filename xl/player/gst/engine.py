@@ -269,7 +269,6 @@ class ExaileGstEngine(ExaileEngine):
 
     def _autoadvance_track(self, still_fading=False):
         track = self.player.engine_autoadvance_get_next_track()
-
         if track:
             play_args = self.player.engine_autoadvance_notify_next(track) + (
                 False,
@@ -648,7 +647,7 @@ class AudioStream:
             and not self.get_gst_state() == Gst.State.PAUSED
         ):
             self.engine._eos_func(self)
-
+        
         elif (
             message.type == Gst.MessageType.STREAM_START
             and message.src == self.playbin

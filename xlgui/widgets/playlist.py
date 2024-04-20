@@ -2024,9 +2024,14 @@ class PlaylistModel(Gtk.ListStore):
     ### Event callbacks to keep the model in sync with the playlist ###
 
     def on_tracks_added(self, event_type, playlist, tracks):
+        
+        print("on_tracks_added", str(tracks))
         self._load_data(tracks)
 
+    # mondaiji
     def on_tracks_removed(self, event_type, playlist, tracks):
+        print("on_tracks_removed", str(tracks))
+        
         for position, track in reversed(tracks):
             self.remove(self.iter_nth_child(None, position))
 
