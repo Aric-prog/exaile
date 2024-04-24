@@ -212,6 +212,7 @@ class DbusManager(dbus.service.Object):
     """
 
     def __init__(self, exaile):
+        print("does this happen")
         """
         Initializes the interface
         """

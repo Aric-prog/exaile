@@ -1,18 +1,42 @@
-import os
+import os,sys 
 import shutil
 import tempfile
 from typing import NamedTuple, Tuple
+import pathlib
 
 from gi.repository import Gio
 
 import pytest
-
+import xl.playlist as pl
+from xl.playlist import Playlist
 from xl.trax.track import Track
 
 import logging
 
 logging.basicConfig(level=logging.DEBUG)
 
+m3u_converter = pl.M3UConverter()
+asx_converter = pl.ASXConverter()
+pls_converter = pl.PLSConverter()
+xspf_converter = pl.XSPFConverter()
+
+
+
+def get_all_playlist_uri():
+    uri_list = []
+    local_path = os.path.abspath(
+    os.path.join(
+        os.path.dirname(__file__),
+        'custom_tests',
+        'pytest',
+        'data',
+    ) + os.extsep)
+
+    for file in os.listdir(local_path):
+        filename = os.fsdecode(file)
+        if(len(filename.split('.')) == 1): continue
+        uri_list.append(pathlib.Path(os.path.abspath(file)).as_uri())
+    return uri_list
 
 @pytest.fixture(autouse=True)
 def exaile_test_cleanup():
@@ -34,7 +58,6 @@ class TrackData(NamedTuple):
     writeable: bool
     has_cover: bool
     has_tags: bool
-
 
 def _fname(ext: str) -> Tuple[str, str, str]:
     local_path = os.path.abspath(
@@ -76,6 +99,15 @@ _nonstandard_metadata_tracks = [
     TrackData(*_non_unicode_name(3, 'flac'), size=20762, writeable=True, has_cover=True, has_tags=True),
 ]
 
+_playlist_converters = [
+    ('m3u', m3u_converter), 
+    ('asx', asx_converter), 
+    ('pls', pls_converter), 
+    ('xspf', xspf_converter)
+]
+
+_playlist_uri = get_all_playlist_uri()
+
 _different_datatype_tracks = [
     # fmt: off
     TrackData(*_fname('aac'),  size=9404,  writeable=True, has_cover=True, has_tags=True),
@@ -100,7 +132,6 @@ def test_track(request):
     '''Provides TrackData objects for each test track'''
     return request.param
 
-
 @pytest.fixture(params=_writeable_tracks)
 def writeable_track(request):
     '''Provides TrackData objects for each test track that is writeable'''
@@ -110,40 +141,19 @@ def writeable_track(request):
 def nonstandard_track(request):
     return request.param
 
-@pytest.fixture()
-def test_track_fp(test_track):
-    with tempfile.NamedTemporaryFile(suffix='.' + test_track.ext) as tfp:
-        with open(test_track.filename, 'rb') as fp:
-            shutil.copyfileobj(fp, tfp)
+@pytest.fixture(params=_playlist_uri)
+def test_playlist(request):
+    tracks = []
+    for i in _different_datatype_tracks:
+        tracks.append(Track(i.uri))
+    return Playlist("test playlist", tracks)
 
-        tfp.flush()
-
-        yield tfp
-
-
-@pytest.fixture()
-def writeable_track_name(writeable_track):
-    '''Fixture that returns names of temporary copies of writeable tracks'''
-
-    # On Windows, we have to close the file before it can be reopened
-    is_windows = os.name == 'nt'
-
-    with tempfile.NamedTemporaryFile(
-        suffix='.' + writeable_track.ext, delete=not is_windows
-    ) as tfp:
-        with open(writeable_track.filename, 'rb') as fp:
-            shutil.copyfileobj(fp, tfp)
-        tfp.flush()
-
-        if not is_windows:
-            yield tfp.name
-
-    if is_windows:
-        try:
-            yield tfp.name
-        finally:
-            os.remove(tfp.name)
-
+# @pytest.fixture()
+# def valid_playlist_uri(request):
+    
+@pytest.fixture(params=_playlist_converters)
+def playlist_converter(request):
+    return request.param
 
 @pytest.fixture
 def test_tracks():

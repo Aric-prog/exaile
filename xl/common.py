@@ -971,10 +971,10 @@ class GioFileInputStream(_GioFileStream):
     TODO: More complete wrapper
     """
 
-    __slots__ = ['stream', 'gfile']
 
     def __init__(self, gfile):
         self.gfile = gfile
+
         self.stream = Gio.DataInputStream.new(gfile.read())
 
     def __iter__(self):
@@ -1006,7 +1006,6 @@ class GioFileOutputStream(_GioFileStream):
     def __init__(self, gfile, mode='w'):
         if mode != 'w':
             raise IOError("Not implemented")
-
         self.stream = gfile.replace('', False, Gio.FileCreateFlags.REPLACE_DESTINATION)
 
     def flush(self):

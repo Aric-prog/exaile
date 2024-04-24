@@ -127,6 +127,7 @@ def import_playlist(path: str) -> 'Playlist':
     if not Gio.content_type_is_unknown(content_type):
         for provider in providers.get('playlist-format-converter'):
             if content_type in provider.content_types:
+                print(path)
                 return provider.import_from_file(path)
 
     # Next try to extract the file extension via URL parsing
@@ -134,6 +135,7 @@ def import_playlist(path: str) -> 'Playlist':
 
     for provider in providers.get('playlist-format-converter'):
         if file_extension in provider.file_extensions:
+            print(path)
             return provider.import_from_file(path)
 
     # Last try the expensive Gio way (downloads the data for inspection)
@@ -146,6 +148,7 @@ def import_playlist(path: str) -> 'Playlist':
     if content_type:
         for provider in providers.get('playlist-format-converter'):
             if content_type in provider.content_types:
+                print(path)
                 return provider.import_from_file(path)
 
     raise InvalidPlaylistTypeError(_('Invalid playlist type.'))
@@ -387,7 +390,6 @@ class M3UConverter(FormatConverter):
         lineno = 0
 
         logger.debug('Importing M3U playlist: %s', path)
-
         with GioFileInputStream(Gio.File.new_for_uri(path)) as stream:
             for line in stream:
                 lineno += 1

@@ -1,0 +1,59 @@
+<asx version="3.0">
+  <title>Playlist 1</title>
+  <entry>
+    <title>Truly</title>
+    <author>Delerium</author>
+    <ref href="..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.aac" />
+  </entry>
+  <entry>
+    <title>Truly</title>
+    <author>Delerium</author>
+    <ref href="..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.aiff" />
+  </entry>
+  <entry>
+    <title>Truly</title>
+    <author>Delerium</author>
+    <ref href="..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.flac" />
+  </entry>
+  <entry>
+    <title>Truly</title>
+    <author>Delerium</author>
+    <ref href="..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.mp3" />
+  </entry>
+  <entry>
+    <title>Truly</title>
+    <author>Delerium</author>
+    <ref href="..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.mp4" />
+  </entry>
+  <entry>
+    <title>Truly</title>
+    <author>Delerium</author>
+    <ref href="..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.mpc" />
+  </entry>
+  <entry>
+    <title>Truly</title>
+    <author>Delerium</author>
+    <ref href="..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.ogg" />
+  </entry>
+  <entry>
+    <title>Truly</title>
+    <author>Delerium</author>
+    <ref href="..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.spx" />
+  </entry>
+  <entry>
+    <title>Truly</title>
+    <author>Delerium</author>
+    <ref href="..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.wma" />
+  </entry>
+  <entry>
+    <title>Truly</title>
+    <author>Delerium</author>
+    <ref href="..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.wv" />
+  </entry>
+  <entry>
+    <ref href="..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.au" />
+  </entry>
+  <entry>
+    <ref href="..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.wav" />
+  </entry>
+</asx>

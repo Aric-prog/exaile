@@ -468,7 +468,7 @@ class Exaile:
         # under wayland (see #653); should be done before splash screen
         # is displayed.
         GLib.set_prgname('exaile')
-
+        
         if self.options.UseDataDir:
             xdg.data_dirs.insert(1, self.options.UseDataDir)
 
@@ -658,7 +658,6 @@ class Exaile:
         from gi.repository import Gst
 
         Gst.init(None)
-
         # Initialize plugin manager
         from xl import plugins
 
@@ -729,7 +728,7 @@ class Exaile:
             if udisks2.connect():
                 self.udisks2 = udisks2
 
-        # Radio Manager
+                # Radio Manager
         from xl import radio
 
         self.stations = playlist.PlaylistManager('radio_stations')
@@ -854,7 +853,7 @@ class Exaile:
 
         MIN_VER = (3, 10, 2)
         ver = GObject.pygobject_version
-
+        
         if ver < MIN_VER:
             # Probably should exit?
             logger.warning(

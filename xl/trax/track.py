@@ -37,6 +37,7 @@ import weakref
 from gi.repository import Gio
 from gi.repository import GLib
 
+from xl.common import GioFileOutputStream
 from xl.metadata._base import BaseFormat
 import xl.unicode
 from xl import event, metadata, settings

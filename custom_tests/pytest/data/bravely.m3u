@@ -1,0 +1,8 @@
+#EXTM3U
+#PLAYLIST: Playlist 2
+#EXTINF:0,\\);print("hello") - Linked Horizon
+..\..\custom_tests\pytest\data\music\bravely\03. Linked Horizon — 虚ろな月の下で [Vocalized Version].flac
+#EXTINF:0,虚ろな月の下で [Vocalized Version] - Linked Horizon
+..\..\custom_tests\pytest\data\music\bravely\02. Linked Horizon — 虚ろな月の下で [Vocalized Version].flac
+#EXTINF:0,虚ろな月の下で [Vocalized Version] - Linked Horizon
+..\..\custom_tests\pytest\data\music\bravely\01. Linked Horizon — 虚ろな月の下で [Vocalized Version].flac

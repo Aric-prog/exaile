@@ -1,0 +1,26 @@
+#EXTM3U
+#PLAYLIST: Playlist 1
+#EXTINF:0,Truly - Delerium
+..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.aac
+#EXTINF:0,Truly - Delerium
+..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.aiff
+#EXTINF:0,Truly - Delerium
+..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.flac
+#EXTINF:0,Truly - Delerium
+..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.mp3
+#EXTINF:0,Truly - Delerium
+..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.mp4
+#EXTINF:0,Truly - Delerium
+..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.mpc
+#EXTINF:0,Truly - Delerium
+..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.ogg
+#EXTINF:0,Truly - Delerium
+..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.spx
+#EXTINF:0,Truly - Delerium
+..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.wma
+#EXTINF:0,Truly - Delerium
+..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.wv
+#EXTINF:-1,Unknown (05 - Truly.au) - 
+..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.au
+#EXTINF:-1,Unknown (05 - Truly.wav) - 
+..\..\custom_tests\pytest\data\music\delerium\chimera\05 - Truly.wav

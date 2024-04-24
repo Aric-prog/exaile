@@ -55,9 +55,10 @@ os.environ['EXAILE_DIR'] = basedir
 
 def main():
     from xl import main
-
+    
     global exaile
     exaile = main.Exaile()
+    
 
 
 if __name__ == "__main__":

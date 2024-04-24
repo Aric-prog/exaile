@@ -1,0 +1,18 @@
+<asx version="3.0">
+  <title>Playlist 1</title>
+  <entry>
+    <title>\\);print("hello")</title>
+    <author>Linked Horizon</author>
+    <ref href="..\..\custom_tests\pytest\data\music\bravely\03. Linked Horizon — 虚ろな月の下で [Vocalized Version].flac" />
+  </entry>
+  <entry>
+    <title>虚ろな月の下で [Vocalized Version]</title>
+    <author>Linked Horizon</author>
+    <ref href="..\..\custom_tests\pytest\data\music\bravely\02. Linked Horizon — 虚ろな月の下で [Vocalized Version].flac" />
+  </entry>
+  <entry>
+    <title>虚ろな月の下で [Vocalized Version]</title>
+    <author>Linked Horizon</author>
+    <ref href="..\..\custom_tests\pytest\data\music\bravely\01. Linked Horizon — 虚ろな月の下で [Vocalized Version].flac" />
+  </entry>
+</asx>

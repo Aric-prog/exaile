@@ -1,0 +1,39 @@
+<asx version="3.0">
+  <title>test playlist</title>
+  <entry>
+    <ref href="..\music\delerium\chimera\05 - Truly.aac" />
+  </entry>
+  <entry>
+    <ref href="..\music\delerium\chimera\05 - Truly.aiff" />
+  </entry>
+  <entry>
+    <ref href="..\music\delerium\chimera\05 - Truly.au" />
+  </entry>
+  <entry>
+    <ref href="..\music\delerium\chimera\05 - Truly.flac" />
+  </entry>
+  <entry>
+    <ref href="..\music\delerium\chimera\05 - Truly.mp3" />
+  </entry>
+  <entry>
+    <ref href="..\music\delerium\chimera\05 - Truly.mp4" />
+  </entry>
+  <entry>
+    <ref href="..\music\delerium\chimera\05 - Truly.mpc" />
+  </entry>
+  <entry>
+    <ref href="..\music\delerium\chimera\05 - Truly.ogg" />
+  </entry>
+  <entry>
+    <ref href="..\music\delerium\chimera\05 - Truly.spx" />
+  </entry>
+  <entry>
+    <ref href="..\music\delerium\chimera\05 - Truly.wav" />
+  </entry>
+  <entry>
+    <ref href="..\music\delerium\chimera\05 - Truly.wma" />
+  </entry>
+  <entry>
+    <ref href="..\music\delerium\chimera\05 - Truly.wv" />
+  </entry>
+</asx>

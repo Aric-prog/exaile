@@ -111,14 +111,16 @@ def main():
     else:
         logging.info("Mutagen works")
 
+   
     # disable the logging before starting exaile.. otherwise it gets
     # configured twice and we get double the log messages!
     logging = None
     del sys.modules['logging']
 
     try:
-        sys.argv[1:1] = ['--startgui', '--no-dbus', '--no-hal']
+        sys.argv[1:1] = ['--startgui','--no-dbus', '--no-hal']
         import exaile
+
 
         exaile.main()
     except Exception:
