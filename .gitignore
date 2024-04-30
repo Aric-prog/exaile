@@ -7,10 +7,10 @@ random/
 /Exaile.dmg
 /build/
 /dist/
-
 /doc/_build
 /doc/_static
 
+/custom_tests/pytest/data/output/*.playlist
 /tools/installer/src
 /tools/installer/_bin
 /tools/installer/_build

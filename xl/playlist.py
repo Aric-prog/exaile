@@ -1441,7 +1441,6 @@ class Playlist:
         :type location: string
         """
         new_location = location + ".new"
-
         with open(new_location, 'w') as f:
             for track in self.__tracks:
                 loc = track.get_loc_for_io()
@@ -1729,7 +1728,6 @@ class Playlist:
                 break
         else:
             self.__spat_position = -1
-
 
 class SmartPlaylist:
     """

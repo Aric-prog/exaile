@@ -1,0 +1,18 @@
+<asx version="3.0">
+  <title>foo</title>
+  <entry>
+    <title>woot</title>
+    <author>TestArtist</author>
+    <ref href="music\foo\1-foo.ogg" />
+  </entry>
+  <entry>
+    <title>foo</title>
+    <author>TestArtist</author>
+    <ref href="music\foo\2-foo.ogg" />
+  </entry>
+  <entry>
+    <title>baz</title>
+    <author>TestArtist</author>
+    <ref href="music\foo\3-foo.ogg" />
+  </entry>
+</asx>

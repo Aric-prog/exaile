@@ -1,0 +1,8 @@
+#EXTM3U
+#PLAYLIST: foo
+#EXTINF:0,woot - TestArtist
+music\foo\1-foo.ogg
+#EXTINF:0,foo - TestArtist
+music\foo\2-foo.ogg
+#EXTINF:2,baz - TestArtist
+music\foo\3-foo.ogg
