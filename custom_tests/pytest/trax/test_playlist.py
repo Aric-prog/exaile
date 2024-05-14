@@ -33,7 +33,7 @@ class TestPlaylist:
     def test_valid_playlist(self, playlist_uri):
         assert pl.is_valid_playlist(playlist_uri)
 
-    def test_import_and_export(self, all_converters, playlist_converter, playlist_uri, playlist_export_options):
+    def test_import_and_export_integrity(self, all_converters, playlist_converter, playlist_uri, playlist_export_options):
         ext, converter = playlist_converter
         playlist_ext = playlist_uri.split('.')[1]
         playlist = all_converters[playlist_ext].import_from_file(playlist_uri)
@@ -52,7 +52,7 @@ class TestPlaylist:
         for i in range(len(empty_playlist)):
             assert empty_playlist[i].get_basename() == test_playlist[i].get_basename()
 
-    def test_save_and_load_playlist(self, test_playlist: pl.Playlist):
+    def test_save_and_load_playlist_integrity(self, test_playlist: pl.Playlist):
         path = f'{get_path_to_test()}/output/output.playlist'
         assert test_playlist.save_to_location(path) is None
 
