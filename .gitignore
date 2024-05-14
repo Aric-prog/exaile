@@ -10,7 +10,7 @@ random/
 /doc/_build
 /doc/_static
 
-/custom_tests/pytest/data/output/*.playlist
+/custom_tests/pytest/data/output/output.*
 /tools/installer/src
 /tools/installer/_bin
 /tools/installer/_build
