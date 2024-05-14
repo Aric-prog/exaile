@@ -11,6 +11,7 @@ random/
 /doc/_static
 
 /custom_tests/pytest/data/output/output.*
+/custom_tests/pytest/data/output/testing.*
 /tools/installer/src
 /tools/installer/_bin
 /tools/installer/_build

@@ -1,18 +1,13 @@
-Exaile
+Exaile testing with pytest 
 ======
 
-[![Build Status](https://github.com/exaile/exaile/workflows/Exaile%20CI/badge.svg)](https://github.com/exaile/exaile/actions?query=workflow%3A%22Exaile+CI%22+branch%3Amaster)
-[![Translate with Weblate](https://hosted.weblate.org/widgets/exaile/-/svg-badge.svg)](https://hosted.weblate.org/engage/exaile/)
+This repository contains Exaile version 4.1.3 tested with the pytest module. As the original repository already contains its own set of test cases we have decided to omit those for clarity. 
+The total amount of test cases from this repository is 268 test cases, with 212 passing and 56 failing. For more details regarding the test cases please refer to our document. 
 
-Exaile is a music player with a simple interface and powerful
-music management capabilities. Features include automatic fetching of album art,
-lyrics fetching, streaming internet radio, tabbed playlists, smart playlists
-with extensive filtering/search capabilities, and much more.
+Below is the steps to setup and run the test cases:
+- Install python version 3.7+.
+- Setup Exaile for your specific operating software with the guide of Exaile's [documentation](https://exaile.readthedocs.io/en/stable/dev/getting_started.html).
+- Install the newest version of pytest using `pip install -U pytest`.
+- Navigate to this repository's directory and run `pytest` from root.
 
-Exaile is written using Python and GTK+ and is easily extensible via plugins.
-There are over 50 plugins distributed with Exaile that include advanced track
-tagging, last.fm scrobbling, support for portable media players, podcasts,
-internet radio such as icecast and Soma.FM, ReplayGain, output via a secondary
-output device (great for DJs!), and much more.
-
-For more information see https://www.exaile.org/
+To view the coverage report, either generate it using `coverage run -m pytest && coverage html` or open the existing webpage at `htmlcov/index.html`.
