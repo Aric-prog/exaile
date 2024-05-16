@@ -18,7 +18,7 @@ To view the coverage report, either generate it using `coverage run -m pytest &&
 
 ## Prerequisites
 
-### Installing gi modu
+### Installing gi module
 
 ```
 pip install meson
