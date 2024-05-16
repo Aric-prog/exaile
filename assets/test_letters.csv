@@ -1,0 +1,666 @@
+Unicode,Character,Glyph name,Character name
+0041,A,A,capital A
+00C1,Á,Aacute,capital A with ACUTE
+0102,Ă,Abreve,capital A with BREVE
+1EAE,Ắ,uni1EAE,capital A with BREVE and ACUTE
+1EB6,Ặ,uni1EB6,capital A with BREVE and DOT BELOW
+1EB0,Ằ,uni1EB0,capital A with BREVE and GRAVE
+1EB2,Ẳ,uni1EB2,capital A with BREVE and HOOK ABOVE
+1EB4,Ẵ,uni1EB4,capital A with BREVE and TILDE
+01CD,Ǎ,uni01CD,capital A with CARON
+00C2,Â,Acircumflex,capital A with CIRCUMFLEX
+1EA4,Ấ,uni1EA4,capital A with CIRCUMFLEX and ACUTE
+1EAC,Ậ,uni1EAC,capital A with CIRCUMFLEX and DOT BELOW
+1EA6,Ầ,uni1EA6,capital A with CIRCUMFLEX and GRAVE
+1EA8,Ẩ,uni1EA8,capital A with CIRCUMFLEX and HOOK ABOVE
+1EAA,Ẫ,uni1EAA,capital A with CIRCUMFLEX and TILDE
+00C4,Ä,Adieresis,capital A with DIAERESIS
+1EA0,Ạ,uni1EA0,capital A with DOT BELOW
+00C0,À,Agrave,capital A with GRAVE
+1EA2,Ả,uni1EA2,capital A with HOOK ABOVE
+0100,Ā,Amacron,capital A with MACRON
+0104,Ą,Aogonek,capital A with OGONEK
+00C5,Å,Aring,capital A with RING ABOVE
+01FA,Ǻ,Aringacute,capital A with RING ABOVE and ACUTE
+00C3,Ã,Atilde,capital A with TILDE
+00C6,Æ,AE,capital AE
+01FC,Ǽ,AEacute,capital AE with ACUTE
+0042,B,B,capital B
+1E04,Ḅ,uni1E04,capital B with DOT BELOW
+0181,Ɓ,uni0181,capital B with HOOK
+029A,ʚ,uni029A,lowercase E CLOSED OPEN E
+025E,ɞ,uni025E,lowercase E CLOSED REVERSED OPEN E
+0043,C,C,capital C
+0106,Ć,Cacute,capital C with ACUTE
+010C,Č,Ccaron,capital C with CARON
+00C7,Ç,Ccedilla,capital C with CEDILLA
+0108,Ĉ,Ccircumflex,capital C with CIRCUMFLEX
+010A,Ċ,Cdotaccent,capital C with DOT ABOVE
+0186,Ɔ,uni0186,capital O OPEN O
+0297,ʗ,uni0297,capital C LATIN LETTER STRETCHED C
+0044,D,D,capital D
+010E,Ď,Dcaron,capital D with CARON
+1E12,Ḓ,uni1E12,capital D with CIRCUMFLEX BELOW
+1E0C,Ḍ,uni1E0C,capital D with DOT BELOW
+018A,Ɗ,uni018A,capital D with HOOK
+1E0E,Ḏ,uni1E0E,capital D with LINE BELOW
+01F2,ǲ,uni01F2,capital D with SMALL LETTER Z
+01C5,ǅ,uni01C5,capital D with SMALL LETTER Z with CARON
+0110,Đ,Dcroat,capital D with STROKE
+00D0,Ð,Eth,capital D ETH
+01F1,Ǳ,uni01F1,capital DZ
+01C4,Ǆ,uni01C4,capital DZ with CARON
+0045,E,E,capital E
+00C9,É,Eacute,capital E with ACUTE
+0114,Ĕ,Ebreve,capital E with BREVE
+011A,Ě,Ecaron,capital E with CARON
+00CA,Ê,Ecircumflex,capital E with CIRCUMFLEX
+1EBE,Ế,uni1EBE,capital E with CIRCUMFLEX and ACUTE
+1EC6,Ệ,uni1EC6,capital E with CIRCUMFLEX and DOT BELOW
+1EC0,Ề,uni1EC0,capital E with CIRCUMFLEX and GRAVE
+1EC2,Ể,uni1EC2,capital E with CIRCUMFLEX and HOOK ABOVE
+1EC4,Ễ,uni1EC4,capital E with CIRCUMFLEX and TILDE
+00CB,Ë,Edieresis,capital E with DIAERESIS
+0116,Ė,Edotaccent,capital E with DOT ABOVE
+1EB8,Ẹ,uni1EB8,capital E with DOT BELOW
+00C8,È,Egrave,capital E with GRAVE
+1EBA,Ẻ,uni1EBA,capital E with HOOK ABOVE
+0112,Ē,Emacron,capital E with MACRON
+0118,Ę,Eogonek,capital E with OGONEK
+1EBC,Ẽ,uni1EBC,capital E with TILDE
+0190,Ɛ,uni0190,capital E  OPEN E
+018F,Ə,uni018F,capital E SCHWA
+0046,F,F,capital F
+0191,Ƒ,uni0191,capital F with HOOK
+0047,G,G,capital G
+01F4,Ǵ,uni01F4,capital G with ACUTE
+011E,Ğ,Gbreve,capital G with BREVE
+01E6,Ǧ,Gcaron,capital G with CARON
+0122,Ģ,Gcommaaccent,capital G with CEDILLA
+011C,Ĝ,Gcircumflex,capital G with CIRCUMFLEX
+0120,Ġ,Gdotaccent,capital G with DOT ABOVE
+1E20,Ḡ,uni1E20,capital G with MACRON
+029B,ʛ,uni029B,capital G LATIN LETTER SMALL CAPITAL G with HOOK
+0048,H,H,capital H
+1E2A,Ḫ,uni1E2A,capital H with BREVE BELOW
+0124,Ĥ,Hcircumflex,capital H with CIRCUMFLEX
+1E24,Ḥ,uni1E24,capital H with DOT BELOW
+0126,Ħ,Hbar,capital H with STROKE
+0049,I,I,capital I
+00CD,Í,Iacute,capital I with ACUTE
+012C,Ĭ,Ibreve,capital I with BREVE
+01CF,Ǐ,uni01CF,capital I with CARON
+00CE,Î,Icircumflex,capital I with CIRCUMFLEX
+00CF,Ï,Idieresis,capital I with DIAERESIS
+0130,İ,Idotaccent,capital I with DOT ABOVE
+1ECA,Ị,uni1ECA,capital I with DOT BELOW
+00CC,Ì,Igrave,capital I with GRAVE
+1EC8,Ỉ,uni1EC8,capital I with HOOK ABOVE
+012A,Ī,Imacron,capital I with MACRON
+012E,Į,Iogonek,capital I with OGONEK
+0128,Ĩ,Itilde,capital I with TILDE
+0132,Ĳ,IJ,capital IJ LATIN CAPITAL LIGATURE IJ
+004A,J,J,capital J
+0134,Ĵ,Jcircumflex,capital J with CIRCUMFLEX
+004B,K,K,capital K
+0136,Ķ,Kcommaaccent,capital K with CEDILLA
+1E32,Ḳ,uni1E32,capital K with DOT BELOW
+0198,Ƙ,uni0198,capital K with HOOK
+1E34,Ḵ,uni1E34,capital K with LINE BELOW
+004C,L,L,capital L
+0139,Ĺ,Lacute,capital L with ACUTE
+023D,Ƚ,uni023D,capital L with BAR
+013D,Ľ,Lcaron,capital L with CARON
+013B,Ļ,Lcommaaccent,capital L with CEDILLA
+1E3C,Ḽ,uni1E3C,capital L with CIRCUMFLEX BELOW
+1E36,Ḷ,uni1E36,capital L with DOT BELOW
+1E38,Ḹ,uni1E38,capital L with DOT BELOW and MACRON
+1E3A,Ḻ,uni1E3A,capital L with LINE BELOW
+013F,Ŀ,Ldot,capital L with MIDDLE DOT
+01C8,ǈ,uni01C8,capital L with SMALL LETTER J
+0141,Ł,Lslash,capital L with STROKE
+01C7,Ǉ,uni01C7,capital LJ
+004D,M,M,capital M
+1E3E,Ḿ,uni1E3E,capital M with ACUTE
+1E40,Ṁ,uni1E40,capital M with DOT ABOVE
+1E42,Ṃ,uni1E42,capital M with DOT BELOW
+004E,N,N,capital N
+0143,Ń,Nacute,capital N with ACUTE
+0147,Ň,Ncaron,capital N with CARON
+0145,Ņ,Ncommaaccent,capital N with CEDILLA
+1E4A,Ṋ,uni1E4A,capital N with CIRCUMFLEX BELOW
+1E44,Ṅ,uni1E44,capital N with DOT ABOVE
+1E46,Ṇ,uni1E46,capital N with DOT BELOW
+01F8,Ǹ,uni01F8,capital N with GRAVE
+019D,Ɲ,uni019D,capital N with LEFT HOOK
+1E48,Ṉ,uni1E48,capital N with LINE BELOW
+01CB,ǋ,uni01CB,capital N with SMALL LETTER J
+00D1,Ñ,Ntilde,capital N with TILDE
+01CA,Ǌ,uni01CA,capital NJ
+004F,O,O,capital O
+00D3,Ó,Oacute,capital O with ACUTE
+014E,Ŏ,Obreve,capital O with BREVE
+01D1,Ǒ,uni01D1,capital O with CARON
+00D4,Ô,Ocircumflex,capital O with CIRCUMFLEX
+1ED0,Ố,uni1ED0,capital O with CIRCUMFLEX and ACUTE
+1ED8,Ộ,uni1ED8,capital O with CIRCUMFLEX and DOT BELOW
+1ED2,Ồ,uni1ED2,capital O with CIRCUMFLEX and GRAVE
+1ED4,Ổ,uni1ED4,capital O with CIRCUMFLEX and HOOK ABOVE
+1ED6,Ỗ,uni1ED6,capital O with CIRCUMFLEX and TILDE
+00D6,Ö,Odieresis,capital O with DIAERESIS
+1ECC,Ọ,uni1ECC,capital O with DOT BELOW
+0150,Ő,Ohungarumlaut,capital O with DOUBLE ACUTE
+00D2,Ò,Ograve,capital O with GRAVE
+1ECE,Ỏ,uni1ECE,capital O with HOOK ABOVE
+01A0,Ơ,Ohorn,capital O with HORN
+1EDA,Ớ,uni1EDA,capital O with HORN and ACUTE
+1EE2,Ợ,uni1EE2,capital O with HORN and DOT BELOW
+1EDC,Ờ,uni1EDC,capital O with HORN and GRAVE
+1EDE,Ở,uni1EDE,capital O with HORN and HOOK ABOVE
+1EE0,Ỡ,uni1EE0,capital O with HORN and TILDE
+014C,Ō,Omacron,capital O with MACRON
+019F,Ɵ,uni019F,capital O with MIDDLE TILDE
+01EA,Ǫ,uni01EA,capital O with OGONEK
+00D8,Ø,Oslash,capital O with STROKE
+01FE,Ǿ,Oslashacute,capital O with STROKE and ACUTE
+00D5,Õ,Otilde,capital O with TILDE
+0152,Œ,OE,capital OE LATIN CAPITAL LIGATURE OE
+0276,ɶ,uni0276,capital OE LATIN LETTER SMALL CAPITAL OE
+0050,P,P,capital P
+00DE,Þ,Thorn,capital P THORN
+0051,Q,Q,capital Q
+0052,R,R,capital R
+0154,Ŕ,Racute,capital R with ACUTE
+0158,Ř,Rcaron,capital R with CARON
+0156,Ŗ,Rcommaaccent,capital R with CEDILLA
+1E58,Ṙ,uni1E58,capital R with DOT ABOVE
+1E5A,Ṛ,uni1E5A,capital R with DOT BELOW
+1E5C,Ṝ,uni1E5C,capital R with DOT BELOW and MACRON
+1E5E,Ṟ,uni1E5E,capital R with LINE BELOW
+0281,ʁ,uni0281,capital R LATIN LETTER SMALL CAPITAL INVERTED R
+0053,S,S,capital S
+015A,Ś,Sacute,capital S with ACUTE
+0160,Š,Scaron,capital S with CARON
+015E,Ş,Scedilla,capital S with CEDILLA
+015C,Ŝ,Scircumflex,capital S with CIRCUMFLEX
+0218,Ș,Scommaaccent,capital S with COMMA BELOW
+1E60,Ṡ,uni1E60,capital S with DOT ABOVE
+1E62,Ṣ,uni1E62,capital S with DOT BELOW
+1E9E,ẞ,uni1E9E,capital S SHARP
+0054,T,T,capital T
+0164,Ť,Tcaron,capital T with CARON
+0162,Ţ,Tcommaaccent,capital T with CEDILLA
+1E70,Ṱ,uni1E70,capital T with CIRCUMFLEX BELOW
+021A,Ț,uni021A,capital T with COMMA BELOW
+1E6C,Ṭ,uni1E6C,capital T with DOT BELOW
+1E6E,Ṯ,uni1E6E,capital T with LINE BELOW
+0166,Ŧ,Tbar,capital T with STROKE
+00DE,Þ,Thorn,capital T THORN
+00D0,Ð,Eth,capital D ETH
+0055,U,U,capital U
+00DA,Ú,Uacute,capital U with ACUTE
+016C,Ŭ,Ubreve,capital U with BREVE
+01D3,Ǔ,uni01D3,capital U with CARON
+00DB,Û,Ucircumflex,capital U with CIRCUMFLEX
+00DC,Ü,Udieresis,capital U with DIAERESIS
+01D7,Ǘ,uni01D7,capital U with DIAERESIS and ACUTE
+01D9,Ǚ,uni01D9,capital U with DIAERESIS and CARON
+01DB,Ǜ,uni01DB,capital U with DIAERESIS and GRAVE
+01D5,Ǖ,uni01D5,capital U with DIAERESIS and MACRON
+1EE4,Ụ,uni1EE4,capital U with DOT BELOW
+0170,Ű,Uhungarumlaut,capital U with DOUBLE ACUTE
+00D9,Ù,Ugrave,capital U with GRAVE
+1EE6,Ủ,uni1EE6,capital U with HOOK ABOVE
+01AF,Ư,Uhorn,capital U with HORN
+1EE8,Ứ,uni1EE8,capital U with HORN and ACUTE
+1EF0,Ự,uni1EF0,capital U with HORN and DOT BELOW
+1EEA,Ừ,uni1EEA,capital U with HORN and GRAVE
+1EEC,Ử,uni1EEC,capital U with HORN and HOOK ABOVE
+1EEE,Ữ,uni1EEE,capital U with HORN and TILDE
+016A,Ū,Umacron,capital U with MACRON
+0172,Ų,Uogonek,capital U with OGONEK
+016E,Ů,Uring,capital U with RING ABOVE
+0168,Ũ,Utilde,capital U with TILDE
+0056,V,V,capital V
+0057,W,W,capital W
+1E82,Ẃ,Wacute,capital W with ACUTE
+0174,Ŵ,Wcircumflex,capital W with CIRCUMFLEX
+1E84,Ẅ,Wdieresis,capital W with DIAERESIS
+1E80,Ẁ,Wgrave,capital W with GRAVE
+02AC,ʬ,uni02AC,capital WW LATIN LETTER BILABIAL PERCUSSIVE
+0058,X,X,capital X
+0059,Y,Y,capital Y
+00DD,Ý,Yacute,capital Y with ACUTE
+0176,Ŷ,Ycircumflex,capital Y with CIRCUMFLEX
+0178,Ÿ,Ydieresis,capital Y with DIAERESIS
+1E8E,Ẏ,uni1E8E,capital Y with DOT ABOVE
+1EF4,Ỵ,uni1EF4,capital Y with DOT BELOW
+1EF2,Ỳ,Ygrave,capital Y with GRAVE
+01B3,Ƴ,uni01B3,capital Y with HOOK
+1EF6,Ỷ,uni1EF6,capital Y with HOOK ABOVE
+0232,Ȳ,uni0232,capital Y with MACRON
+1EF8,Ỹ,uni1EF8,capital Y with TILDE
+005A,Z,Z,capital Z
+0179,Ź,Zacute,capital Z with ACUTE
+017D,Ž,Zcaron,capital Z with CARON
+017B,Ż,Zdotaccent,capital Z with DOT ABOVE
+1E92,Ẓ,uni1E92,capital Z with DOT BELOW
+1E94,Ẕ,uni1E94,capital Z with LINE BELOW
+0061,a,a,lowercase A
+00E1,á,aacute,lowercase A with ACUTE
+0103,ă,abreve,lowercase A with BREVE
+1EAF,ắ,uni1EAF,lowercase A with BREVE and ACUTE
+1EB7,ặ,uni1EB7,lowercase A with BREVE and DOT BELOW
+1EB1,ằ,uni1EB1,lowercase A with BREVE and GRAVE
+1EB3,ẳ,uni1EB3,lowercase A with BREVE and HOOK ABOVE
+1EB5,ẵ,uni1EB5,lowercase A with BREVE and TILDE
+01CE,ǎ,uni01CE,lowercase A with CARON
+00E2,â,acircumflex,lowercase A with CIRCUMFLEX
+1EA5,ấ,uni1EA5,lowercase A with CIRCUMFLEX and ACUTE
+1EAD,ậ,uni1EAD,lowercase A with CIRCUMFLEX and DOT BELOW
+1EA7,ầ,uni1EA7,lowercase A with CIRCUMFLEX and GRAVE
+1EA9,ẩ,uni1EA9,lowercase A with CIRCUMFLEX and HOOK ABOVE
+1EAB,ẫ,uni1EAB,lowercase A with CIRCUMFLEX and TILDE
+00E4,ä,adieresis,lowercase A with DIAERESIS
+1EA1,ạ,uni1EA1,lowercase A with DOT BELOW
+00E0,à,agrave,lowercase A with GRAVE
+1EA3,ả,uni1EA3,lowercase A with HOOK ABOVE
+0101,ā,amacron,lowercase A with MACRON
+0105,ą,aogonek,lowercase A with OGONEK
+00E5,å,aring,lowercase A with RING ABOVE
+01FB,ǻ,aringacute,lowercase A with RING ABOVE and ACUTE
+00E3,ã,atilde,lowercase A with TILDE
+00E6,æ,ae,lowercase AE
+01FD,ǽ,aeacute,lowercase AE with ACUTE
+0251,ɑ,uni0251,lowercase A ALPHA
+0250,ɐ,uni0250,lowercase A TURNED 
+0252,ɒ,uni0252,lowercase A ALPHA TURNED 
+0062,b,b,lowercase B
+1E05,ḅ,uni1E05,lowercase B with DOT BELOW
+0253,ɓ,uni0253,lowercase B with HOOK
+00DF,ß,germandbls,lowercase S SHARP S
+0063,c,c,lowercase C
+0107,ć,cacute,lowercase C with ACUTE
+010D,č,ccaron,lowercase C with CARON
+00E7,ç,ccedilla,lowercase C with CEDILLA
+0109,ĉ,ccircumflex,lowercase C with CIRCUMFLEX
+0255,ɕ,uni0255,lowercase C with CURL
+010B,ċ,cdotaccent,lowercase C with DOT ABOVE
+0064,d,d,lowercase D
+010F,ď,dcaron,lowercase D with CARON
+1E13,ḓ,uni1E13,lowercase D with CIRCUMFLEX BELOW
+1E0D,ḍ,uni1E0D,lowercase D with DOT BELOW
+0257,ɗ,uni0257,lowercase D with HOOK
+1E0F,ḏ,uni1E0F,lowercase D with LINE BELOW
+0111,đ,dcroat,lowercase D with STROKE
+0256,ɖ,uni0256,lowercase D with TAIL
+02A4,ʤ,uni02A4,lowercase D DEZH DIGRAPH
+01F3,ǳ,uni01F3,lowercase DZ
+02A3,ʣ,uni02A3,lowercase DZ DIGRAPH
+02A5,ʥ,uni02A5,lowercase DZ DIGRAPH with CURL
+01C6,ǆ,uni01C6,lowercase DZ with CARON
+00F0,ð,eth,lowercase DZ ETH
+0065,e,e,lowercase E
+00E9,é,eacute,lowercase E with ACUTE
+0115,ĕ,ebreve,lowercase E with BREVE
+011B,ě,ecaron,lowercase E with CARON
+00EA,ê,ecircumflex,lowercase E with CIRCUMFLEX
+1EBF,ế,uni1EBF,lowercase E with CIRCUMFLEX and ACUTE
+1EC7,ệ,uni1EC7,lowercase E with CIRCUMFLEX and DOT BELOW
+1EC1,ề,uni1EC1,lowercase E with CIRCUMFLEX and GRAVE
+1EC3,ể,uni1EC3,lowercase E with CIRCUMFLEX and HOOK ABOVE
+1EC5,ễ,uni1EC5,lowercase E with CIRCUMFLEX and TILDE
+00EB,ë,edieresis,lowercase E with DIAERESIS
+0117,ė,edotaccent,lowercase E with DOT ABOVE
+1EB9,ẹ,uni1EB9,lowercase E with DOT BELOW
+00E8,è,egrave,lowercase E with GRAVE
+1EBB,ẻ,uni1EBB,lowercase E with HOOK ABOVE
+0113,ē,emacron,lowercase E with MACRON
+0119,ę,eogonek,lowercase E with OGONEK
+1EBD,ẽ,uni1EBD,lowercase E with TILDE
+0292,ʒ,uni0292,lowercase E EZH
+01EF,ǯ,uni01EF,lowercase E EZH with CARON
+0293,ʓ,uni0293,lowercase E EZH with CURL
+0258,ɘ,uni0258,lowercase E REVERSED E
+025C,ɜ,uni025C,lowercase E REVERSED OPEN E
+025D,ɝ,uni025D,lowercase E REVERSED OPEN E with HOOK
+0259,ə,uni0259,lowercase E SCHWA
+025A,ɚ,uni025A,lowercase E SCHWA with HOOK
+029A,ʚ,uni029A,lowercase E CLOSED OPEN E
+025E,ɞ,uni025E,lowercase E CLOSED REVERSED OPEN E
+0066,f,f,lowercase F
+0192,ƒ,florin,lowercase F with HOOK
+017F,ſ,longs,lowercase S S
+02A9,ʩ,uni02A9,lowercase FN FENG DIGRAPH
+FB01,ﬁ,fi,lowercase FI LATIN SMALL LIGATURE FI
+FB02,ﬂ,fl,lowercase FL LATIN SMALL LIGATURE FL
+0283,ʃ,uni0283,lowercase S ESH
+0286,ʆ,uni0286,lowercase S ESH with CURL
+0285,ʅ,uni0285,lowercase S SQUAT REVERSED ESH
+025F,ɟ,uni025F,lowercase J DOTLESS J with STROKE
+0284,ʄ,uni0284,lowercase J DOTLESS J with STROKE and HOOK
+0067,g,g,lowercase G
+01F5,ǵ,uni01F5,lowercase G with ACUTE
+011F,ğ,gbreve,lowercase G with BREVE
+01E7,ǧ,gcaron,lowercase G with CARON
+0123,ģ,gcommaaccent,lowercase G with CEDILLA
+011D,ĝ,gcircumflex,lowercase G with CIRCUMFLEX
+0121,ġ,gdotaccent,lowercase G with DOT ABOVE
+0260,ɠ,uni0260,lowercase G with HOOK
+1E21,ḡ,uni1E21,lowercase G with MACRON
+0261,ɡ,uni0261,lowercase G SCRIPT G
+0263,ɣ,uni0263,lowercase G GAMMA
+0068,h,h,lowercase H
+1E2B,ḫ,uni1E2B,lowercase H with BREVE BELOW
+0125,ĥ,hcircumflex,lowercase H with CIRCUMFLEX
+1E25,ḥ,uni1E25,lowercase H with DOT BELOW
+0266,ɦ,uni0266,lowercase H with HOOK
+1E96,ẖ,uni1E96,lowercase H with LINE BELOW
+0127,ħ,hbar,lowercase H with STROKE
+0267,ɧ,uni0267,lowercase H HENG with HOOK
+0265,ɥ,uni0265,lowercase H TURNED 
+02AE,ʮ,uni02AE,lowercase H TURNED  with FISHHOOK
+02AF,ʯ,uni02AF,lowercase H TURNED  with FISHHOOK and TAIL
+0173,ų,uogonek,lowercase U with OGONEK
+0069,i,i,lowercase I
+00ED,í,iacute,lowercase I with ACUTE
+012D,ĭ,ibreve,lowercase I with BREVE
+01D0,ǐ,uni01D0,lowercase I with CARON
+00EE,î,icircumflex,lowercase I with CIRCUMFLEX
+00EF,ï,idieresis,lowercase I with DIAERESIS
+1ECB,ị,uni1ECB,lowercase I with DOT BELOW
+00EC,ì,igrave,lowercase I with GRAVE
+1EC9,ỉ,uni1EC9,lowercase I with HOOK ABOVE
+012B,ī,imacron,lowercase I with MACRON
+012F,į,iogonek,lowercase I with OGONEK
+0268,ɨ,uni0268,lowercase I with STROKE
+0129,ĩ,itilde,lowercase I with TILDE
+0269,ɩ,uni0269,lowercase I IOTA
+0131,ı,dotlessi,lowercase I  DOTLESS
+0133,ĳ,ij,lowercase IJ LATIN SMALL LIGATURE IJ
+025F,ɟ,uni025F,lowercase J DOTLESS J with STROKE
+006A,j,j,lowercase J
+01F0,ǰ,uni01F0,lowercase J with CARON
+0135,ĵ,jcircumflex,lowercase J with CIRCUMFLEX
+029D,ʝ,uni029D,lowercase J with CROSSED-TAIL
+0237,ȷ,uni0237,lowercase J DOTLESS J
+025F,ɟ,uni025F,lowercase J DOTLESS J with STROKE
+0284,ʄ,uni0284,lowercase J DOTLESS J with STROKE and HOOK
+006B,k,k,lowercase K
+0137,ķ,kcommaaccent,lowercase K with CEDILLA
+1E33,ḳ,uni1E33,lowercase K with DOT BELOW
+0199,ƙ,uni0199,lowercase K with HOOK
+1E35,ḵ,uni1E35,lowercase K with LINE BELOW
+0138,ĸ,kgreenlandic,lowercase K KRA
+029E,ʞ,uni029E,lowercase K TURNED 
+006C,l,l,lowercase L
+013A,ĺ,lacute,lowercase L with ACUTE
+019A,ƚ,uni019A,lowercase L with BAR
+026C,ɬ,uni026C,lowercase L with BELT
+013E,ľ,lcaron,lowercase L with CARON
+013C,ļ,lcommaaccent,lowercase L with CEDILLA
+1E3D,ḽ,uni1E3D,lowercase L with CIRCUMFLEX BELOW
+1E37,ḷ,uni1E37,lowercase L with DOT BELOW
+1E39,ḹ,uni1E39,lowercase L with DOT BELOW and MACRON
+1E3B,ḻ,uni1E3B,lowercase L with LINE BELOW
+0140,ŀ,ldot,lowercase L with MIDDLE DOT
+026B,ɫ,uni026B,lowercase L with MIDDLE TILDE
+026D,ɭ,uni026D,lowercase L with RETROFLEX HOOK
+0142,ł,lslash,lowercase L with STROKE
+019B,ƛ,uni019B,lowercase LAMBDA with STROKE
+026E,ɮ,uni026E,lowercase LEZH
+01C9,ǉ,uni01C9,lowercase LJ
+02AA,ʪ,uni02AA,lowercase LS DIGRAPH
+02AB,ʫ,uni02AB,lowercase LZ DIGRAPH
+006D,m,m,lowercase M
+1E3F,ḿ,uni1E3F,lowercase M with ACUTE
+1E41,ṁ,uni1E41,lowercase M with DOT ABOVE
+1E43,ṃ,uni1E43,lowercase M with DOT BELOW
+0271,ɱ,uni0271,lowercase M with HOOK
+026F,ɯ,uni026F,lowercase M TURNED
+0270,ɰ,uni0270,lowercase M TURNED with LEG
+006E,n,n,lowercase N
+0149,ŉ,napostrophe,lowercase N PRECEDED BY APOSTROPHE
+0144,ń,nacute,lowercase N with ACUTE
+0148,ň,ncaron,lowercase N with CARON
+0146,ņ,ncommaaccent,lowercase N with CEDILLA
+1E4B,ṋ,uni1E4B,lowercase N with CIRCUMFLEX BELOW
+1E45,ṅ,uni1E45,lowercase N with DOT ABOVE
+1E47,ṇ,uni1E47,lowercase N with DOT BELOW
+01F9,ǹ,uni01F9,lowercase N with GRAVE
+0272,ɲ,uni0272,lowercase N with LEFT HOOK
+1E49,ṉ,uni1E49,lowercase N with LINE BELOW
+0273,ɳ,uni0273,lowercase N with RETROFLEX HOOK
+00F1,ñ,ntilde,lowercase N with TILDE
+01CC,ǌ,uni01CC,lowercase NJ
+014B,ŋ,eng,lowercase N ENG
+014A,Ŋ,Eng,capital N ENG
+006F,o,o,lowercase O
+00F3,ó,oacute,lowercase O with ACUTE
+014F,ŏ,obreve,lowercase O with BREVE
+01D2,ǒ,uni01D2,lowercase O with CARON
+00F4,ô,ocircumflex,lowercase O with CIRCUMFLEX
+1ED1,ố,uni1ED1,lowercase O with CIRCUMFLEX and ACUTE
+1ED9,ộ,uni1ED9,lowercase O with CIRCUMFLEX and DOT BELOW
+1ED3,ồ,uni1ED3,lowercase O with CIRCUMFLEX and GRAVE
+1ED5,ổ,uni1ED5,lowercase O with CIRCUMFLEX and HOOK ABOVE
+1ED7,ỗ,uni1ED7,lowercase O with CIRCUMFLEX and TILDE
+00F6,ö,odieresis,lowercase O with DIAERESIS
+1ECD,ọ,uni1ECD,lowercase O with DOT BELOW
+0151,ő,ohungarumlaut,lowercase O with DOUBLE ACUTE
+00F2,ò,ograve,lowercase O with GRAVE
+1ECF,ỏ,uni1ECF,lowercase O with HOOK ABOVE
+01A1,ơ,ohorn,lowercase O with HORN
+1EDB,ớ,uni1EDB,lowercase O with HORN and ACUTE
+1EE3,ợ,uni1EE3,lowercase O with HORN and DOT BELOW
+1EDD,ờ,uni1EDD,lowercase O with HORN and GRAVE
+1EDF,ở,uni1EDF,lowercase O with HORN and HOOK ABOVE
+1EE1,ỡ,uni1EE1,lowercase O with HORN and TILDE
+014D,ō,omacron,lowercase O with MACRON
+01EB,ǫ,uni01EB,lowercase O with OGONEK
+00F8,ø,oslash,lowercase O with STROKE
+01FF,ǿ,oslashacute,lowercase O with STROKE and ACUTE
+00F5,õ,otilde,lowercase O with TILDE
+025B,ɛ,uni025B,lowercase E OPEN E
+0254,ɔ,uni0254,lowercase O OPEN O
+0275,ɵ,uni0275,lowercase O BARRED O
+0298,ʘ,uni0298,lowercase O LATIN O LETTER BILABIAL CLICK
+0153,œ,oe,lowercase OE LATIN OE SMALL LIGATURE OE
+0070,p,p,lowercase P
+0278,ɸ,uni0278,lowercase PHI
+00FE,þ,thorn,lowercase T THORN
+0071,q,q,lowercase Q
+02A0,ʠ,uni02A0,lowercase Q with HOOK
+0072,r,r,lowercase R
+0155,ŕ,racute,lowercase R with ACUTE
+0159,ř,rcaron,lowercase R with CARON
+0157,ŗ,rcommaaccent,lowercase R with CEDILLA
+1E59,ṙ,uni1E59,lowercase R with DOT ABOVE
+1E5B,ṛ,uni1E5B,lowercase R with DOT BELOW
+1E5D,ṝ,uni1E5D,lowercase R with DOT BELOW and MACRON
+027E,ɾ,uni027E,lowercase R with FISHHOOK
+1E5F,ṟ,uni1E5F,lowercase R with LINE BELOW
+027C,ɼ,uni027C,lowercase R with LEG
+027D,ɽ,uni027D,lowercase R with TAIL
+027F,ɿ,uni027F,lowercase R REVERSED R with FISHHOOK
+0279,ɹ,uni0279,lowercase R TURNED
+027B,ɻ,uni027B,lowercase R TURNED with HOOK
+027A,ɺ,uni027A,lowercase R TURNED with LEG
+0073,s,s,lowercase S
+015B,ś,sacute,lowercase S with ACUTE
+0161,š,scaron,lowercase S with CARON
+015F,ş,scedilla,lowercase S with CEDILLA
+015D,ŝ,scircumflex,lowercase S with CIRCUMFLEX
+0219,ș,scommaaccent,lowercase S with COMMA BELOW
+1E61,ṡ,uni1E61,lowercase S with DOT ABOVE
+1E63,ṣ,uni1E63,lowercase S with DOT BELOW
+0282,ʂ,uni0282,lowercase S with HOOK
+017F,ſ,longs,lowercase S S
+0283,ʃ,uni0283,lowercase S ESH
+0286,ʆ,uni0286,lowercase S ESH with CURL
+00DF,ß,germandbls,lowercase S SHARP
+0285,ʅ,uni0285,lowercase S SQUAT REVERSED ESH
+0074,t,t,lowercase T
+0165,ť,tcaron,lowercase T with CARON
+0163,ţ,tcommaaccent,lowercase T with CEDILLA
+1E71,ṱ,uni1E71,lowercase T with CIRCUMFLEX BELOW
+021B,ț,uni021B,lowercase T with COMMA BELOW
+1E97,ẗ,uni1E97,lowercase T with DIAERESIS
+1E6D,ṭ,uni1E6D,lowercase T with DOT BELOW
+1E6F,ṯ,uni1E6F,lowercase T with LINE BELOW
+0288,ʈ,uni0288,lowercase T with RETROFLEX HOOK
+0167,ŧ,tbar,lowercase T with STROKE
+02A8,ʨ,uni02A8,lowercase T TC DIGRAPH with CURL
+02A7,ʧ,uni02A7,lowercase T TESH DIGRAPH
+00FE,þ,thorn,lowercase T THORN
+00F0,ð,eth,lowercase T ETH
+02A6,ʦ,uni02A6,lowercase TS DIGRAPH
+0287,ʇ,uni0287,lowercase T TURNED
+0075,u,u,lowercase U
+0289,ʉ,uni0289,lowercase U BAR
+00FA,ú,uacute,lowercase U with ACUTE
+016D,ŭ,ubreve,lowercase U with BREVE
+01D4,ǔ,uni01D4,lowercase U with CARON
+00FB,û,ucircumflex,lowercase U with CIRCUMFLEX
+00FC,ü,udieresis,lowercase U with DIAERESIS
+01D8,ǘ,uni01D8,lowercase U with DIAERESIS and ACUTE
+01DA,ǚ,uni01DA,lowercase U with DIAERESIS and CARON
+01DC,ǜ,uni01DC,lowercase U with DIAERESIS and GRAVE
+01D6,ǖ,uni01D6,lowercase U with DIAERESIS and MACRON
+1EE5,ụ,uni1EE5,lowercase U with DOT BELOW
+0171,ű,uhungarumlaut,lowercase U with DOUBLE ACUTE
+00F9,ù,ugrave,lowercase U with GRAVE
+1EE7,ủ,uni1EE7,lowercase U with HOOK ABOVE
+01B0,ư,uhorn,lowercase U with HORN
+1EE9,ứ,uni1EE9,lowercase U with HORN and ACUTE
+1EF1,ự,uni1EF1,lowercase U with HORN and DOT BELOW
+1EEB,ừ,uni1EEB,lowercase U with HORN and GRAVE
+1EED,ử,uni1EED,lowercase U with HORN and HOOK ABOVE
+1EEF,ữ,uni1EEF,lowercase U with HORN and TILDE
+016B,ū,umacron,lowercase U with MACRON
+0173,ų,uogonek,lowercase U with OGONEK
+016F,ů,uring,lowercase U with RING ABOVE
+0169,ũ,utilde,lowercase U with TILDE
+028A,ʊ,uni028A,lowercase U UPSILON
+0076,v,v,lowercase V
+028B,ʋ,uni028B,lowercase V with HOOK
+028C,ʌ,uni028C,lowercase V TURNED
+0077,w,w,lowercase W
+1E83,ẃ,wacute,lowercase W with ACUTE
+0175,ŵ,wcircumflex,lowercase W with CIRCUMFLEX
+1E85,ẅ,wdieresis,lowercase W with DIAERESIS
+1E81,ẁ,wgrave,lowercase W with GRAVE
+028D,ʍ,uni028D,lowercase w TURNED
+0078,x,x,lowercase X
+0079,y,y,lowercase Y
+00FD,ý,yacute,lowercase Y with ACUTE
+0177,ŷ,ycircumflex,lowercase Y with CIRCUMFLEX
+00FF,ÿ,ydieresis,lowercase Y with DIAERESIS
+1E8F,ẏ,uni1E8F,lowercase Y with DOT ABOVE
+1EF5,ỵ,uni1EF5,lowercase Y with DOT BELOW
+1EF3,ỳ,ygrave,lowercase Y with GRAVE
+01B4,ƴ,uni01B4,lowercase Y with HOOK
+1EF7,ỷ,uni1EF7,lowercase Y with HOOK ABOVE
+0233,ȳ,uni0233,lowercase Y with MACRON
+1EF9,ỹ,uni1EF9,lowercase Y with TILDE
+028E,ʎ,uni028E,lowercase Y TURNED
+007A,z,z,lowercase Z
+017A,ź,zacute,lowercase Z with ACUTE
+017E,ž,zcaron,lowercase Z with CARON
+0291,ʑ,uni0291,lowercase Z with CURL
+017C,ż,zdotaccent,lowercase Z with DOT ABOVE
+1E93,ẓ,uni1E93,lowercase Z with DOT BELOW
+1E95,ẕ,uni1E95,lowercase Z with LINE BELOW
+0290,ʐ,uni0290,lowercase Z with RETROFLEX HOOK
+01B6,ƶ,uni01B6,lowercase Z with STROKE
+1E00,Ḁ, ,capital A with ring below
+1E01,ḁ, ,lowercase A with ring below
+1E02,Ḃ, ,capital B with dot above
+1E03,ḃ, ,lowercase B with dot above
+1E06,Ḇ, ,capital B with line below
+1E07,ḇ, ,lowercase B with line below
+1E08,Ḉ, ,capital C with cedilla and acute
+1E09,ḉ, ,lowercase C with cedilla and acute
+1E0A,Ḋ, ,capital D with dot above
+1E0B,ḋ, ,lowercase D with dot above
+1E10,Ḑ, ,capital D with cedilla
+1E11,ḑ, ,lowercase D with cedilla
+1E14,Ḕ, ,capital E with macron and grave
+1E15,ḕ, ,lowercase E with macron and grave
+1E16,Ḗ, ,capital E with macron and acute
+1E17,ḗ, ,lowercase E with macron and acute
+1E18,Ḙ, ,capital E with circumflex below
+1E19,ḙ, ,lowercase E with circumflex below
+1E1A,Ḛ, ,capital E with tilde below
+1E1B,ḛ, ,lowercase E with tilde below
+1E1C,Ḝ, ,capital E with cedilla and breve
+1E1D,ḝ, ,lowercase E with cedilla and breve
+1E1E,Ḟ, ,capital F with dot above
+1E1F,ḟ, ,lowercase F with dot above
+1E22,Ḣ, ,capital H with dot above
+1E23,ḣ, ,lowercase H with dot above
+1E26,Ḧ, ,capital H with diaeresis
+1E27,ḧ, ,lowercase H with diaeresis
+1E28,Ḩ, ,capital H with cedilla
+1E29,ḩ, ,lowercase H with cedilla
+1E2C,Ḭ, ,capital I with tilde below
+1E2D,ḭ, ,lowercase I with tilde below
+1E2E,Ḯ, ,capital I with diaeresis and acute
+1E2F,ḯ, ,lowercase I with diaeresis and acute
+1E30,Ḱ, ,capital K with acute
+1E31,ḱ, ,lowercase K with acute
+1E4C,Ṍ, ,capital O with tilde and acute
+1E4D,ṍ, ,lowercase O with tilde and acute
+1E4E,Ṏ, ,capital O with tilde and diaeresis
+1E4F,ṏ, ,lowercase O with tilde and diaeresis
+1E50,Ṑ, ,capital O with macron and grave
+1E51,ṑ, ,lowercase O with macron and grave
+1E52,Ṓ, ,capital O with macron and acute
+1E53,ṓ, ,lowercase O with macron and acute
+1E54,Ṕ, ,capital P with acute
+1E55,ṕ, ,lowercase P with acute
+1E56,Ṗ, ,capital P with dot above
+1E57,ṗ, ,lowercase P with dot above
+1E64,Ṥ, ,capital S with acute and dot above
+1E65,ṥ, ,lowercase S with acute and dot above
+1E66,Ṧ, ,capital S with caron and dot above
+1E67,ṧ, ,lowercase S with caron and dot above
+1E68,Ṩ, ,capital S with dot below and dot above
+1E69,ṩ, ,lowercase S with dot below and dot above
+1E6A,Ṫ, ,capital T with dot above
+1E72,Ṳ, ,capital U with diaeresis below
+1E73,ṳ, ,lowercase U with diaeresis below
+1E74,Ṵ, ,capital U with tilde below
+1E75,ṵ, ,lowercase U with tilde below
+1E76,Ṷ, ,capital U with circumflex below
+1E77,ṷ, ,lowercase U with circumflex below
+1E78,Ṹ, ,capital U with tilde and acute
+1E79,ṹ, ,lowercase U with tilde and acute
+1E7A,Ṻ, ,capital U with macron and diaeresis
+1E7B,ṻ, ,lowercase U with macron and diaeresis
+1E7C,Ṽ, ,capital V with tilde
+1E7D,ṽ, ,lowercase V with tilde
+1E7E,Ṿ, ,capital V with dot below
+1E7F,ṿ, ,lowercase V with dot below
+1E86,Ẇ, ,capital W with dot above
+1E87,ẇ, ,lowercase W with dot above
+1E88,Ẉ, ,capital W with dot below
+1E89,ẉ, ,lowercase W with dot below
+1E8A,Ẋ, ,capital X with dot above
+1E8B,ẋ, ,lowercase X with dot above
+1E8C,Ẍ, ,capital X with diaeresis
+1E8D,ẍ, ,lowercase X with diaeresis
+1E90,Ẑ, ,capital Z with circumflex
+1E91,ẑ, ,lowercase Z with circumflex
+1E98,ẘ, ,lowercase W with ring above
+1E99,ẙ, ,lowercase Y with ring above
+1E9A,ẚ, ,lowercase A with right half ring
+1E9B,ẛ, ,lowercase S with dot above
+1E9C,ẜ, ,lowercase S with diagonal stroke
+1E9D,ẝ, ,lowercase S with high stroke
+1EFA,Ỻ, ,capital LL
+1EFB,ỻ, ,lowercase LL
+1EFC,Ỽ, ,capital V
+1EFD,ỽ, ,lowercase V
+1EFE,Ỿ, ,capital Y with loop
+1EFF,ỿ, ,lowercase Y with loop
